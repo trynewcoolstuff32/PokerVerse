@@ -4,9 +4,9 @@ Unser Mini-Projekt für den Kurs Web Technology: eine Scrum Poker App.
 
 ## Team
 
-- Name 1
-- Name 2
-- Name 3
+- Fabian
+- Dinel
+- Alessio
 
 ## Layout
 
